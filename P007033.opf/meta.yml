@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17842
   title: ཆོ་འཕྲུལ་ཆེན་མོའི་རྟོགས་བརྗོད།
-  volume: ''
+  volume:
+    9b18271604d248249037e22169f53e88:
+      image_group_id: I8LS17873
+      title: Volume 1 of cho 'phrul chen mo'i rtogs brjod/
+      volume_number: 1
+      total_pages: 76
   author: ''
+ebook_metadata:
+  title: ཆོ་འཕྲུལ་ཆེན་མོའི་རྟོགས་བརྗོད།
+  author: ''
+  sku: P007033
+  cover: cover.jpg
+  layers:
+  - pagination
